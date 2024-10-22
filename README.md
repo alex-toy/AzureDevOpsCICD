@@ -44,8 +44,30 @@
 
 ### Release Pipelines
 
-- starter pipeline
-<img src="/pictures/starter.png" title="starter pipeline"  width="900">
+#### Staging Stage
+
+- choose **Azure App Service Deployment**. Rename stage into *Dev Deployment*
+<img src="/pictures/release.png" title="release pipeline"  width="900">
+
+- add an artifact
+<img src="/pictures/release1.png" title="release pipeline"  width="900">
+
+- add a branch trigger
+<img src="/pictures/release2.png" title="release pipeline"  width="900">
+
+- configure agent
+<img src="/pictures/release3.png" title="release pipeline"  width="900">
+
+- add a deployment slot. Clone the settings
+<img src="/pictures/release4.png" title="release pipeline"  width="900">
+
+- configure deploy
+<img src="/pictures/release5.png" title="release pipeline"  width="900">
+
+#### Production Stage
+
+- configure deploy
+<img src="/pictures/production.png" title="production pipeline"  width="900">
 
 
 
