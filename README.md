@@ -7,7 +7,7 @@
 - use the classic editor
 <img src="/pictures/pip.png" title="pipeline"  width="900">
 
-- use the classic editor
+- choose repo
 <img src="/pictures/pip1.png" title="pipeline"  width="900">
 
 - empty job
@@ -66,8 +66,14 @@
 
 #### Production Stage
 
-- configure deploy
+- add prod stage
 <img src="/pictures/production.png" title="production pipeline"  width="900">
+
+- configure deploy
+<img src="/pictures/production1.png" title="production pipeline"  width="900">
+
+- add query
+<img src="/pictures/production2.png" title="production pipeline"  width="900">
 
 
 
@@ -76,8 +82,16 @@
 <img src="/pictures/web_app.png" title="web app"  width="900">
 
 
+
 ## teams Settings
 
 <img src="/pictures/teams.png" title="teams"  width="900">
 <img src="/pictures/teams2.png" title="teams"  width="900">
 <img src="/pictures/dashboard.png" title="teams"  width="900">
+
+
+
+## Test Plans
+
+-create test plan
+<img src="/pictures/test.png" title="test plan"  width="900">
