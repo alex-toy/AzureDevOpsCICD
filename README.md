@@ -93,5 +93,26 @@
 
 ## Test Plans
 
--create test plan
+- create test plan
 <img src="/pictures/test.png" title="test plan"  width="900">
+
+- create requirement base suite
+<img src="/pictures/test1.png" title="test plan"  width="900">
+<img src="/pictures/test2.png" title="test plan"  width="900">
+
+- create a test case
+<img src="/pictures/test3.png" title="test plan"  width="900">
+
+- test cases should appear on the board
+<img src="/pictures/test4.png" title="test plan"  width="900">
+
+
+
+## Azure Artifacts
+
+- create a feed
+<img src="/pictures/artifact.png" title="azure artifact"  width="900">
+<img src="/pictures/artifact2.png" title="azure artifact"  width="900">
+
+- create a release pipeline
+<img src="/pictures/artifact3.png" title="azure artifact"  width="900">
